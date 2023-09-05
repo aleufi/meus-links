@@ -1,0 +1,64 @@
+*{
+    font-family: 'Mulish', sans-serif;
+    color: white;
+
+}
+
+body{
+    background-color: black;
+}
+
+
+#profile{
+    padding: 20px;
+}
+
+#profile a{
+    color: orange;
+}
+
+#profileImg{
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+
+li{
+
+    border: 1px solid white;
+    list-style: none;
+    padding: 15px 150px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+    background-color: transparent;
+    color:white;
+    
+}
+
+li:hover{
+
+    background-color: rgb(43, 43, 43);
+    color: orange;
+
+    transition: background 0.3s;
+    transition: color 0.17s;
+
+}
+
+
+footer a{
+    color: orange;
+}
